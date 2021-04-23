@@ -24,6 +24,8 @@ public class Main {
 		 * 
 		 * eseguire il push 
 		 * 
+		 * configurare la fetch cosicchè poter fare il pull dei file della repo remota in locale
+		 * 
 		 * 
 		 */
 	}
